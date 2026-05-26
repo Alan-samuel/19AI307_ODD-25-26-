@@ -78,10 +78,9 @@ class prog {
 
 ## OUTPUT:
 
-```
+
 <img width="656" height="143" alt="image" src="https://github.com/user-attachments/assets/388b559a-5a27-455a-b79a-866cadf67e3a" />
 
-```
 
 ---
 
